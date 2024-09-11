@@ -7,6 +7,8 @@ After finishing the homework, you are to turn in all the code.
 
 1. Start an RStudio project. Recommended name: `pset-01-rmarkdown`. Start a Quarto document called `beginning.qmd`.
 
+yes nno
+
 2. Create a directory called `img` and save a screen shot of your RStudio session for the project. Include your screenshot in the Quarto document.
 
 3. Next, in your Quarto document, define variables $a=1, b=-1, c=-2$ and print out the solutions to $f(x) = ax^2+bx+c=0$. Do not report complex solutions, only real numbers. 
